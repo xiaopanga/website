@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<main_nemu>
+	<menu>
+		<index>biography</index>
+		<text>Biography</text>
+		<link>biography.html</link>
+	</menu>
+	<menu>
+		<index>research</index>
+		<text>Research</text>
+		<link>research.html</link>
+	</menu>
+	<menu>
+		<index>affiliations</index>
+		<text>Affiliations</text>
+		<link>affiliations.html</link>
+	</menu>
+	<menu>
+		<index>publications</index>
+		<text>Publications</text>
+		<link>publications.html</link>
+	</menu>
+	<menu>
+		<index>honors</index>
+		<text>Honors and Awards</text>
+		<link>honors.html</link>
+	</menu>
+	<menu>
+		<index>group</index>
+		<text>Group</text>
+		<link>group.html</link>
+	</menu>
+	<menu>
+		<index>teaching</index>
+		<text>Teaching</text>
+		<link>teaching.html</link>
+	</menu>
+	<menu>
+		<index>contact</index>
+		<text>Contact</text>
+		<link>contact.html</link>
+	</menu>
+	<menu>
+		<index>links</index>
+		<text>Links</text>
+		<link>links.html</link>
+	</menu>
+
+
+
+</main_nemu>
+
+<biography>
+&lt;p style="font-size:22px">This is the biography&lt;/p>
+&lt;br />this is the biography
+&lt;br />this is the biography
+&lt;br />this is the biography
+&lt;br />this is the biography
+&lt;br />this is the biography
+&lt;br />this is the biography
+&lt;br />this is the biography
+</biography>
+
+<research>
+&lt;p style="font-size:22px">Research Interest&lt;/p>
+&lt;table style="font-size:16px;width:100%">&lt;tr>&lt;td>
+&lt;li>Biomedical optical imaging&lt;br />&lt;br />
+&lt;li>Optical coherence tomography (OCT)&lt;br />&lt;br />
+&lt;li>Optical coherence microscopy (OCM)&lt;br />&lt;br />
+&lt;li>Diffuse optical spectroscopy and imaging&lt;br />&lt;br />
+&lt;li>Molecular imaging&lt;br />&lt;br />
+&lt;li>Early cancer diagnosis&lt;br />&lt;br />
+&lt;li>Neuroimaging&lt;br />&lt;br />
+&lt;/td>&lt;/tr>&lt;/table>
+</research>
+
+<publications>
+&lt;p style="font-size:22px">Selected Refereed Publications&lt;/p>
+&lt;table style="font-size:14px;width:100%;padding:0;margin:0">&lt;tr>&lt;td>
+&lt;li>A. Agrawal, M. Connors, A. Beylin, C.P. Liang, D. Barton, &lt;b>Y. Chen&lt;/b>, R.A. Drezek, T.J. Pfefer*, "Characterizing the Point Spread Function of Retinal OCT Systems with a Model Eye-Based Phantom," &lt;i>Biomedical Optics Express&lt;/i>, 3, 1116-1126 (2012).
+&lt;br />&lt;br />
+&lt;li>E. Ayvali, C.P. Liang, &lt;b>Y. Chen&lt;/b>, J. Desai*, "A Discretely Actuated Steerable Cannula with Integrated Optical Coherence Tomography (OCT) Imaging," &lt;i>International Journal of Robotics Research&lt;/i>, 31, 588-603 (2012).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, C.P. Liang, Y. Liu, A.V. Parwani, A.H. Fischer, L. Pantanowitz*, "Review of Advanced Imaging Techniques", &lt;i>Journal of Pathological Informatics&lt;/i>, 3, 22 (2012).
+&lt;br />&lt;br />
+&lt;li>C.P. Liang, C.W. Chen, J. Desai, R. Gullapalli, C.M. Tang, R. Mezrich, &lt;b>Y. Chen*&lt;/b>, "Endoscopic Microscopy Using Optical Coherence Tomography," &lt;i>Current Medical Imaging Reviews&lt;/i>, in press.
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen*&lt;/b>, S.W. Huang, C. Zhou, B. Potsaid, J.G. Fujimoto, "Improved Detection Sensitivity of Line-Scanning Optical Coherence Microscopy," &lt;i>IEEE Journal of Selected Topics in Quantum Electronics&lt;/i>, 18, 1094-1099 (2012).
+&lt;br />&lt;br />
+&lt;li>C.P. Liang, J. Wierwille, T. Moreira, G. Schwartzbauer, M.S. Jafri, C.M. Tang, &lt;b>Y. Chen*&lt;/b>, "A Forward-Imaging Needle-Type OCT Probe for Image Guided Stereotactic Procedures," &lt;i>Optics Express&lt;/i>, 19, 26283-26294 (2011).
+&lt;br />&lt;br />
+&lt;li>J. Wierwille, P.M. Andrews, M. Onozato, J. Jiang, A. Cable, &lt;b>Y. Chen*&lt;/b>, "In vivo, label-free, three-dimensional quantitative imaging of kidney microcirculation using Doppler optical coherence tomography (DOCT)," &lt;i>Laboratory Investigation&lt;/i>, 91, 1596-1604 (2011).
+&lt;br />&lt;br />
+&lt;li>C.W. Chen, &lt;b>Y. Chen*&lt;/b>, "Optimization of Design Parameters for Fluorescence Laminar Optical Tomography," &lt;i>Journal of Innovation in Optical Health Sciences&lt;/i>, 4, 309-323 (2011).
+&lt;br />&lt;br />
+&lt;li>C.W. Chen, M.W. Betz, J.P. Fisher, A. Paek, &lt;b>Y. Chen*&lt;/b>, "Macroporous Hydrogel Scaffolds and Their Characterization By Optical Coherence Tomography," &lt;i>Tissue Engineering - Part C: Methods&lt;/i>, 17, 101-112 (2011).
+&lt;br />&lt;br />
+&lt;li>C.A. Roney, B. Xu, J. Xie, S. Yuan, J. Wierwille, C.W. Chen, &lt;b>Y. Chen&lt;/b>, G.L. Griffiths, R.M. Summers*, "Rh-I-UEA-1 polymerized liposomes target and image adenomatous polyps in the APCMin/+ mouse using optical colonography," &lt;i>Molecular Imaging&lt;/i>, 10, 305-316 (2011).
+&lt;br />&lt;br />
+&lt;li>K.A. DiVito, V.A. Trabosh, Y.S. Chen, C. Albanese, &lt;b>Y. Chen&lt;/b>, A. Mauviel, C.M. Simbulan-Rosenthal, D.S. Rosenthal*, "Smad7 Suppresses N-cadherin Cleavage in Metastatic Melanoma Through β-catenin Stabilization and Restores Heterotypic Cell-Cell Interactions In Vivo,"
+&lt;i>Pigment Cell &amp; Melanoma Research&lt;/i>, 23, 795-808 (2010).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen*&lt;/b>, S. Yuan, J. Wierwille, R. Naphas, Q. Li, T. Blackwell, P. Winnard, V. Raman, K. Glunde, "Integrated Optical Coherence Tomography (OCT) with Fluorescence Laminar Optical Tomography (FLOT)," &lt;i>IEEE Journal of Selected Topics in Quantum Electronics&lt;/i>, 16, 755-766 (2010). (Invited Paper)
+&lt;br />&lt;br />
+&lt;li>A.D. Aguirre, &lt;b>Y. Chen&lt;/b>, B. Bryan, H. Mashimo, Q. Huang, J.L. Connolly, J.G. Fujimoto*, "Cellular Resolution Ex Vivo Imaging of Gastrointestinal Tissues with Optical Coherence Microscopy," &lt;i>Journal of Biomedical Optics&lt;/i>, 15, 016025 (2010).
+&lt;br />&lt;br />
+&lt;li>S. Yuan, C.A. Roney, J. Wierwille, C.W. Chen, B. Xu, G. Griffiths, J. Jiang, H. Ma, A. Cable, R.M. Summers, &lt;b>Y. Chen*&lt;/b>, "Co-registered Optical Coherence Tomography and Fluorescence Molecular Imaging for Simultaneous Morphological and Molecular Imaging," &lt;i>Physics in Medicine and Biology&lt;/i>, 55, 191-206 (2010).
+&lt;br />&lt;br />
+&lt;li>M.L. Onozato, P.M. Andrews, Q. Li, J. Jiang, A. Cable, &lt;b>Y. Chen*&lt;/b>, "Optical Coherence Tomography Imaging of Intact Human Kidney Ex-Vivo," &lt;i>Journal of Urology&lt;/i>, 183, 2090-2094 (2010).
+&lt;br />&lt;br />
+&lt;li>C.W. Chen, T. Blackwell, R. Naphas, K. Glunde, &lt;b>Y. Chen*&lt;/b>, "Development of Needle-Based Microendoscopy for Fluorescence Molecular Imaging of Breast Tumor (Invited Paper)," &lt;i>Journal of Innovation in Optical Health Sciences&lt;/i>, 2, 343-352 (2009).
+&lt;br />&lt;br />
+&lt;li>Q. Li, M.L. Onozato, P.M. Andrews, C.W. Chen, A. Paek, R. Naphas, S. Yuan, J. Jiang, A. Cable, &lt;b>Y. Chen*&lt;/b>, "Automated Image Analysis of Three-Dimensional Microstructures of the Human Kidney using Optical Coherence Tomography (OCT)," &lt;i>Optics Express&lt;/i>, 17, 16000-16016 (2009). (Also featured on &lt;a href="http://www.octnews.org/">&lt;b>OCT News &lt;/b>&lt;/a>)
+&lt;br />&lt;br />
+&lt;li>S. Yuan, Q. Li, J. Jiang, A. Cable, &lt;b>Y. Chen*&lt;/b>, "Three-Dimensional Co-Registered Optical Coherence Tomography and Line-Scanning Fluorescence Laminar Tomography," &lt;i>Optics Letters&lt;/i>, 34, 1615-1617 (2009).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, A.D. Aguirre, L. Ruvinskaya, A. Devor, D.A. Boas, J.G. Fujimoto, "Optical coherence tomography (OCT) reveals depth-resolved dynamics during functional brain activation", &lt;i>Journal of Neuroscience Methods&lt;/i>, 178, 162-173 (2009).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, A.D. Aguirre, P. Hsiung, S. Huang, H. Mashimo, S. Desai, J. Schmitt, J.G. Fujimoto, "Comparison of Ultrahigh and Standard Resolution Endoscopic Optical Coherence Tomography for Gastrointestinal Imaging," &lt;i>Optics Express&lt;/i>, 16, 2469-2485 (2008).
+&lt;br />&lt;br />
+&lt;li>P.M. Andrews, &lt;b>Y. Chen&lt;/b>, S. Huang, D. Adler, R. Huber, J. Jiang, S. Barry, A. Cable, J.G. Fujimoto, "High-Speed Three-Dimensional Optical Coherence Tomography Imaging of Kidney Ischemia In Vivo," &lt;i>Laboratory Investigation&lt;/i>, 88, 441-449 (2008).
+&lt;br />&lt;br />
+&lt;li>D. Adler, &lt;b>Y. Chen&lt;/b>, R. Huber, J.M. Schmitt, J. Connolly, J.G. Fujimoto, "Three-Dimensional Endomicroscopy with Optical Coherence Tomography," &lt;i>Nature Photonics&lt;/i>, 1, 709-176 (2007).
+&lt;br />&lt;br />
+&lt;li>P. Hsiung, D. Phatak, &lt;b>Y. Chen&lt;/b>, A.D. Aguirre, L. Pantanowitz, J.G. Fujimoto, J.L. Connolly, "Ultrahigh Resolution and 3D Optical Coherence Tomography Ex Vivo Imaging of Malignant and Benign Lesions in Human Breast," &lt;i>Radiology&lt;/i>, 244, 865-874 (2007).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, S. Huang, A.D. Aguirre, J.G. Fujimoto, "High-Resolution Line-Scanning Optical Coherence Microscopy," &lt;i>Optics Letters&lt;/i>, 32, 1971-1973 (2007).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, A.D. Aguirre, P. Hsiung, S. Desai, P.R. Herz, M. Pedrosa, Q. Huang, M. Figueiredo, S. Huang, A. Koski, J.M. Schmitt, J.G. Fujimoto, H. Mashimo, "Ultrahigh Resolution Optical Coherence Tomography of Barrett's Esophagus - Preliminary Descriptive Clinical Study Correlating Images with Histology," &lt;i>Endoscopy&lt;/i>, 39, 599-605 (2007).  (Featured on the Journal Cover)
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, P.M. Andrews, A.D. Aguirre, J.M. Schmitt, J.G. Fujimoto, "High-Resolution Three-Dimensional Optical Coherence Tomography Imaging of Kidney Microanatomy Ex Vivo," &lt;i>Journal of Biomedical Optics&lt;/i>, 12, 034008 (2007).
+&lt;br />&lt;br />
+&lt;li>A.D. Aguirre, &lt;b>Y. Chen&lt;/b>, L. Ruvinskaya, A. Devor, D.A. Boas, J.G. Fujimoto, "Cross-sectional Imaging of Functional Activation in the Rat Somatosensory Cortex with Optical Coherence Tomography," &lt;i>Optics Letters&lt;/i>, 31, 3459-3461 (2006).
+&lt;br />&lt;br />
+&lt;li>P. Hsiung, L. Pantanowitz, A.D. Aguirre, &lt;b>Y. Chen&lt;/b>, D. Phatak, J.L. Connolly, H. Mashimo, J.G. Fujimoto, "Ultrahigh Resolution and 3D Optical Coherence Tomography Ex Vivo Imaging of the Large and Small Intestine," &lt;i>Gastrointestinal Endoscopy&lt;/i>, 62, 561-574 (2005).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, X. Intes, B. Chance, "Development of High Sensitivity Near-Infrared (NIR) Fluorescence Imaging Device for Early Cancer Detection," &lt;i>Biomedical Instrumentation and Technology&lt;/i>, 39, 75-85 (2005).  (Outstanding Instrumentation Research Paper)
+&lt;br />&lt;br />
+&lt;li>P.R. Herz, &lt;b>Y. Chen&lt;/b>, A. Aguirre, K. Schneider, P. Hsiung, K. Madden, J. Schmitt, J. Goodnow, C. Petersen, J.G. Fujimoto, "Micro-Motor Endoscope Catheter for In Vivo Ultrahigh Resolution Optical Coherence Tomography," &lt;i>Optics Letters&lt;/i>, 29, 2261-2263 (2004).
+&lt;br />&lt;br />
+&lt;li>P.R. Herz, &lt;b>Y. Chen&lt;/b>, A. Aguirre, J.G. Fujimoto, H. Mashimo, J. Schmitt, A. Koski, J. Goodnow, C. Petersen, "Ultrahigh Resolution Optical Biopsy with Endoscopic Optical Coherence Tomography," &lt;i>Optics Express&lt;/i>, 12, 3532-3542 (2004)
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, G. Zheng, Z. Zhang, D. Blessington, Q. Liu, X. Intes, L. Zhou, H. Li, M. Zhang, S. Achilefu, B. Chance, "Metabolism Enhanced Tumor Localization by Fluorescence Imaging: In Vivo Animal Studies," &lt;i>Optics Letters&lt;/i>, 28, 2070-2072 (2003).
+&lt;br />&lt;br />
+&lt;li>X. Intes, J. Ripoll, &lt;b>Y. Chen&lt;/b>, S. Nioka, A.G. Yodh, B. Chance, "In Vivo Continuous Wave Optical Breast Imaging Enhanced by Indocyanine Green," &lt;i>Medical Physics&lt;/i>, 30, 1039-1047 (2003).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, D. Tailor, X. Intes, B. Chance, "Correlation between Near-Infrared Spectroscopy and Magnetic Resonance Imaging of Rat Brain Oxygenation Modulation," &lt;i>Physics in Medicine and Biology&lt;/i>, 48, 417-427 (2003).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, C. Mu, X. Intes, B. Chance, "Adaptive Calibration for Object Localization in Turbid Media with Interfering Diffuse Photon Density Waves," &lt;i>Applied Optics&lt;/i>, 41, 7325-7333 (2002).
+&lt;br />&lt;br />
+&lt;li>X. Intes, &lt;b>Y. Chen&lt;/b>, X. Li, B. Chance, "Detection Limit Enhancement of Florescent Heterogeneities in Turbid Media by Dual Interfering Excitation," &lt;i>Applied Optics&lt;/i>, 41, 3999-4007 (2002).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, C. Mu, X. Intes, B. Chance, "Signal-to-Noise Analysis for Detection Sensitivity of Small Absorbing Heterogeneity in Turbid Media with Single-source and Dual-Interfering-Source," &lt;i>Optics Express&lt;/i>, 9, 212-224 (2001).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, S. Zhou, C. Xie, S. Nioka, M. Papadopoulos, E. Anday, B. Chance, "Preliminary Evaluation of Dual Wavelength Phased Array Imaging on Neonatal Brain Function," &lt;i>Journal of Biomedical Optics&lt;/i>, 5, 194-200 (2000).
+&lt;/td>&lt;/tr>&lt;/table>
+</publications>
+
+<honors>
+&lt;p style="font-size:22px">Honors and Awards&lt;/p>
+&lt;table style="font-size:18px;width:100%;padding:0;margin:0">&lt;tr>&lt;td>
+
+&lt;li>2006: Outstanding Instrumentation Research Paper of 2005
+&lt;br />&lt;i style="font-size:14px">(Biomedical Instrumentation and Technology)&lt;/i>&lt;br />&lt;br />
+&lt;li>2004~2006: Postdoctoral Fellowship 
+&lt;br />&lt;i style="font-size:14px">(Cancer Research and Prevention Foundation)&lt;/i>&lt;br />&lt;br />
+&lt;li>2003: Finalist ~ Young Investigator Competition 
+&lt;br />&lt;i style="font-size:14px">(Association for the Advancement of Medical Instrumentation andWhitaker Foundation)&lt;/i>&lt;br />&lt;br />
+&lt;li>2003: Solomon R. Pollack Award for Excellence in Graduate Bioengineering  Research 
+&lt;br />&lt;i style="font-size:14px">(University of Pennsylvania)&lt;/i>&lt;br />&lt;br />
+&lt;li>2002: Poster Award 
+&lt;br />&lt;i style="font-size:14px">(28th Annual Northeast Bioengineering Conference, IEEE Engineering in Medicine and Biology Society)&lt;/i>&lt;br />&lt;br />
+&lt;li>2000: Student Fellowship 
+&lt;br />&lt;i style="font-size:16px">(Education Foundation, Society of Nuclear Medicine)&lt;/i>&lt;br />&lt;br />
+&lt;/td>&lt;/tr>&lt;/table>
+</honors>
+
+
+<group>
+&lt;p style="font-size:22px">Group&lt;/p>
+&lt;i style="font-size:16px">
+&lt;span style="cursor:hand" onclick="showdir()">
+Biophotonics Lab Directory&lt;/span>
+&lt;br />&lt;br />
+&lt;span style="cursor:hand" onclick="showstu()">
+Student, Post-doc, &amp; Visiting Scholar Alumni &lt;/span>
+&lt;/i>
+</group>
+
+
+
+<directory>
+&lt;p style="font-size:22px">Biophotonics Lab Directory&lt;/p>
+&lt;p style="font-size:16px">
+
+
+
+&lt;table align="left" valign="top">
+&lt;tr>
+&lt;td>Yu (Tim) Chen&lt;/td>
+&lt;td>&lt;i>Principle Investigator&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:yuchen@umd.edu">yuchen@umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Chia-Pin Liang&lt;/td>
+&lt;td>&lt;i>Graduate Student&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:edward710074@hotmail.com">edward710074@hotmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Qinggong Tang&lt;/td>
+&lt;td>&lt;i>Graduate Student&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:sdtangqinggong@yahoo.com.cn">sdtangqinggong@yahoo.com.cn&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Nick Woolsey&lt;/td>
+&lt;td>&lt;i>Graduate Student&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:Nicholas.j.woolsey@gmail.com">Nicholas.j.woolsey@gmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Jianting Wang&lt;/td>
+&lt;td>&lt;i>Post-doc&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:wangjianting@gmail.com">wangjianting@gmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Hyounguk Jang&lt;/td>
+&lt;td>&lt;i>Post-doc&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:hjang@umd.edu">hjang@umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Hengchang Guo&lt;/td>
+&lt;td>&lt;i>Research Assistant Professor&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:hcguo@umd.edu">hcguo@umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Hsing-Wen Wang&lt;/td>
+&lt;td>&lt;i>Visiting Assistant Professor&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:hsingwen.wang@gmail.com">hsingwen.wang@gmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Hui Li&lt;/td>
+&lt;td>&lt;i>Visiting Professor&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:hli@fjnu.edu.cn">hli@fjnu.edu.cn&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Yalun(Allen) Wu&lt;/td>
+&lt;td>&lt;i>Research Assistant&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:yalunwu@gmail.com">yalunwu@gmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Ilkyoon (Jay) Kim&lt;/td>
+&lt;td>&lt;i>Research Assistant&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:ijkim1226@gmail.com">ijkim1226@gmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Siddarth Plakkot&lt;/td>
+&lt;td>&lt;i>Research Assistant&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:splakkot@terpmail.umd.edu">splakkot@terpmail.umd.edu &lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Zachary Langley&lt;/td>
+&lt;td>&lt;i>Research Assistant&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:zlangley@terpmail.umd.edu">zlangley@terpmail.umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="8px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Josh Nehrer&lt;/td>
+&lt;td>&lt;i>Research Assistant&lt;/i>&lt;/td>
+&lt;td> &lt;/td>
+&lt;/tr>
+
+&lt;/table>
+</directory>
+
+
+
+<student>
+&lt;p style="font-size:22px">Student, Post-doc, &amp; Visiting Scholar Alumni&lt;/p>
+&lt;table align="left" valign="top">
+&lt;tr>
+&lt;td>Chao-Wei Chen&lt;/td>
+&lt;td>&lt;i>Ph.D. UMD 2013&lt;/i>&lt;/td>
+&lt;td>(240) 595-7408 [C]; &lt;a href="mailto:cwchen@umd.edu">cwchen@umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Anthony Fouad&lt;/td>
+&lt;td>&lt;i>B.S. UMD 2013; Univ of Pennsylvania&lt;/i>&lt;/td>
+&lt;td>(215) 839-9647 [C]; &lt;a href="mailto:afouad@umd.edu">afouad@umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Wei Gong&lt;/td>
+&lt;td>&lt;i>Postdoc UMD 2012;Instructor at Fujian Normal Univ&lt;/i>&lt;/td>
+&lt;td>&lt;a href="mailto:wgong@fjnu.edu.cn">wgong@fjnu.edu.cn&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Shuai Yuan &lt;/td>
+&lt;td>&lt;i>Postdoc UMD &lt;/i>&lt;/td>
+&lt;td>(617) 794-1251 [C]; &lt;a href="mailto:syuan@umd.edu">syuan@umd.edu&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Qian Li&lt;/td>&lt;td> &lt;/td>&lt;td> &lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Jerry&lt;/td>&lt;td> &lt;/td>&lt;td> &lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Rasheed Nashaat&lt;/td>&lt;td> &lt;/td>
+&lt;td>(301) 219-2271 [C]; &lt;a href="mailto:nashaatrasheed@gmail.com">nashaatrasheed@gmail.com&lt;/a>&lt;/td>
+&lt;/tr>&lt;tr height="10px">&lt;td height="5px"> &lt;td>&lt;/tr>
+
+&lt;tr>
+&lt;td>Jinang Dhami&lt;/td>&lt;td> &lt;/td>
+&lt;td>(301) 655-1616 [C]; &lt;a href="mailto:jinang.d@gmail.com">jinang.d@gmail.com &lt;/a>&lt;/td>
+&lt;/tr>
+
+
+
+
+</student>
+
+
+<teaching>
+&lt;p style="font-size:22px">teaching&lt;/p>
+&lt;br />&lt;li>books: www. .com&lt;br />
+&lt;br />&lt;li>course infromation:aaaaaaa&lt;br />
+&lt;br />&lt;li>Fall 2009:&lt;br />
+&lt;br />&lt;li>Spring 2010:&lt;br />
+&lt;br />&lt;li>Fall 2010:&lt;br />
+&lt;br />&lt;li>Spring 2011&lt;br />
+&lt;br />&lt;li>Fall 2011:&lt;br />
+&lt;br />&lt;li>Spring 2012:&lt;br />
+&lt;br />&lt;li>Fall 2012:&lt;br />
+&lt;br />&lt;li>Spring 2013&lt;br />
+</teaching>
+
+<contact>
+&lt;p style="font-size:22px">Contact Information&lt;/p>
+&lt;b>Assistant Professor &lt;br />
+Yu Chen&lt;br />&lt;/b>
+Ph.D., University of Pennsylvania, 2003&lt;br />&lt;br />
+Room 2218 Jeong H. Kim Engineering Building&lt;br />
+E-mail: yuchen@umd.edu&lt;br />
+Phone: (301) 405-3439 &lt;br />
+Fax: (301) 314-9953&lt;br />
+&lt;p style="font-size:20">Location&lt;/p>
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Room+2218+Jeong+H.+Kim+Engineering+Building&amp;amp;aq=&amp;amp;sll=38.804821,-77.236966&amp;amp;sspn=2.358537,5.410767&amp;amp;ie=UTF8&amp;amp;hq=Room+2218+Jeong+H.+Kim+Engineering+Building&amp;amp;t=m&amp;amp;ll=38.991001,-76.937709&amp;amp;spn=0.017345,0.032015&amp;amp;output=embed">&lt;/iframe>&lt;br />&lt;small>&lt;a href="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Room+2218+Jeong+H.+Kim+Engineering+Building&amp;amp;aq=&amp;amp;sll=38.804821,-77.236966&amp;amp;sspn=2.358537,5.410767&amp;amp;ie=UTF8&amp;amp;hq=Room+2218+Jeong+H.+Kim+Engineering+Building&amp;amp;t=m&amp;amp;ll=38.991001,-76.937709&amp;amp;spn=0.017345,0.032015" >View Larger Map&lt;/a>&lt;/small>
+</contact>
+
+<links>
+&lt;p style="font-size:22px">Links&lt;/p>
+&lt;br />&lt;li>&lt;i>&lt;a href="http://www.octnews.org/" style="font-size:16px">OCT News&lt;/i>&lt;/a>&lt;/li>
+&lt;br />&lt;li>&lt;i>&lt;a href="http://www.bioe.umd.edu/index.php" style="font-size:16px">Fishchell Department of Bioengineering&lt;/i>&lt;/a>&lt;/li>
+
+&lt;br />laboratory: 
+&lt;br />laboratory: 
+&lt;br />laboratory: 
+&lt;br />laboratory: 
+</links>
+
+<affiliations>
+&lt;p style="font-size:22px">Professional Affiliations&lt;/p>
+&lt;table style="font-size:16px;width:100%;padding:0;margin:0">&lt;tr>&lt;td>
+&lt;li>Optical Society of America (OSA)&lt;br />
+&lt;br />&lt;li>International Society for Optical Engineering (SPIE)&lt;br />
+&lt;br />&lt;li>Institute of Electrical and Electronics Engineers (IEEE)&lt;br />
+&lt;br />&lt;li>Biomedical Engineering Society (BMES)&lt;br />
+&lt;br />&lt;li>American Association for the Advancement of Science (AAAS)&lt;br />
+&lt;br />&lt;li>Sigma Xi&lt;br />
+&lt;/td>&lt;/tr>&lt;/table>
+</affiliations>
+
+<books>
+&lt;p style="font-size:22px">Books and Chapters&lt;/p>
+&lt;table style="font-size:16px;width:100%;padding:0;margin:0">&lt;tr>&lt;td>
+&lt;li>&lt;b>Y. Chen&lt;/b>, E. Bousie, C. Pitris, J.G. Fujimoto, "Optical Coherence Tomography: Introduction and Theory," in &lt;i>Handbook of Biomedical Optics&lt;/i>, D.A. Boas, C. Pitris, N. Ramanujam, Eds., Taylor &amp; Francis Books (in press).
+&lt;br />&lt;br />
+&lt;li>S. Yuan, &lt;b>Y. Chen*&lt;/b>, "Optical Coherence Tomography Based Multi-Modal Optical Imaging in Biomedical Applications," in &lt;i>Advances in Lasers and Electro Optics&lt;/i>, V. Kordic, Ed., IN-TECH (in press).
+&lt;br />&lt;br />
+&lt;li>&lt;b>Y. Chen&lt;/b>, A.D. Aguirre, D. Adler, H. Mashimo, J.G. Fujimoto, "Endoscopy," in &lt;i>Translational Multimodality Optical Imaging&lt;/i>, X. Intes, F. Azar, Eds., Artech House (2008).
+&lt;br />&lt;br />
+&lt;li>W. Drexler, &lt;b>Y. Chen&lt;/b>, A. Aguirre, B. Povazay, A. Unterhuber, J.G. Fujimoto, "Ultrahigh Resolution Optical Coherence Tomography," in &lt;i>Optical Coherence Tomography: Technology and Applications&lt;/i>, J.G. Fujimoto and W. Drexler, Eds., Springer (2008).
+&lt;br />&lt;br />
+&lt;li>A. Unterhuber, B. Povazay, A. Aguirre, &lt;b>Y. Chen&lt;/b>, F.X. Kartner, J.G. Fujimoto, W. Drexler, "Broad Bandwidth Laser and Nonlinear Optical Light Sources for OCT," in &lt;i>Optical Coherence Tomography: Technology and Applications&lt;/i>, J.G. Fujimoto and W. Drexler, Eds., Springer (2008).
+&lt;br />&lt;br />
+&lt;li>J.G. Fujimoto, &lt;b>Y. Chen&lt;/b>, A. Aguirre, "Biomedical Imaging using Optical Coherence Tomography," in &lt;i>Biomedical Optics Handbook&lt;/i>, Oxford University Press (2008).
+&lt;br />&lt;br />
+&lt;li>J.G. Fujimoto, A. Aguirre, &lt;b>Y. Chen&lt;/b>, P. Herz, P. Hsiung, T. Ko, N. Nishizawa, F. Kaertner, "Ultrahigh Resolution Optical Coherence Tomography using Femtosecond Lasers," in &lt;i>Ultrashort Laser Pulse in Biology and Medicine&lt;/i>, M. Braun, P. Gilch, W. Zinth, Eds., Springer (2007).
+&lt;/td>&lt;/tr>&lt;/table>
+</books>
+
+
+<home>
+&lt;p style="font-size:22px">Yu Chen&lt;/p>
+&lt;p>&lt;img src="../images/chen2-sm.jpg"  width="80" height="120"  />&lt;/p>
+&lt;br />Ph.D., University of Pennsylvania, 2003
+&lt;br />Room 2218 Jeong H. Kim Engineering Building&lt;br>
+E-mail: &lt;a href="mailto:yuchen@umd.edu">yuchen@umd.edu&lt;/a>&lt;br>
+Phone: (301) 405-3439 &lt;br>
+Fax: (301) 314-9953&lt;/p>&lt;br clear="all" />
+</home>
+
+
+
+</root>
